@@ -89,7 +89,8 @@ const info = {
 > I am proud to say that I am a ***Bangladeshi*** 🦅 ❤️💙🖤.
 
   
-> Watch my <a href="https://github.com/the-abdurrahman-01?tab=repositories" title="My Repositories">***Repositories***</a> <span title="36 Repositories">`69`</span> 👨‍💻 here.
+> Watch my <a href="https://github.com/the-abdurrahman-01?tab=repositories" title="My Repositories">***Repositories***</a> <span title="36 Repositories">ᴀʙᴅᴜʀ ʀᴀʜᴍᴀɴ TOHA
+> </span> 👨‍💻 here.
   
 > Wanna know me better? Use my website, published at <span title="My Personal Portfolio Website">***https://the-abdurrahman-01.github.io/my-protflio-website/***</span>
 
